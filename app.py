@@ -6,7 +6,7 @@ from apps import (
     #deck,
     #gee,
     #gee_datasets,
-    heatmap,
+    heatmap
     #home,
     #housing,
     #timelapse,
