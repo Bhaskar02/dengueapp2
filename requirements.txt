@@ -1,6 +1,7 @@
 geopandas
 keplergl
 streamlit
+pip
 streamlit-folium==0.6.3
 streamlit-keplergl
 git+git://github.com/giswqs/leafmap
