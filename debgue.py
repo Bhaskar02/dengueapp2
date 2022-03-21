@@ -4,7 +4,7 @@ from apps import (
     
     
     #line1,
-    #line,
+    line
     #heatmapf,
     #dateheat
     #ras
@@ -20,10 +20,10 @@ apps = MultiApp()
 
 
 
-#apps.add_app("Bargraph", line1.app)
+apps.add_app("Bargraph", line1.app)
 #apps.add_app("BarGraph", line.app)
 #apps.add_app("HeatMap1", heatmapf.app)
-apps.add_app("HeatMap2", dateheat.app)
+#apps.add_app("HeatMap2", dateheat.app)
 #apps.add_app("ras", ras.app)
 
 #link = '[Home](https://share.streamlit.io/bhaskar02/display_trend/main/app2.py)'
